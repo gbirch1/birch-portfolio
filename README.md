@@ -11,4 +11,4 @@ i have fallen out of an **airplane at 2500 feet**
 ![the plane i fell out of](https://i.ytimg.com/vi/JUnlZhLkORw/maxresdefault.jpg)
 
 
-[a link to info about the plane] (https://en.wikipedia.org/wiki/Boeing_C-17_Globemaster_III)
+[a link to info about the plane](https://en.wikipedia.org/wiki/Boeing_C-17_Globemaster_III)
